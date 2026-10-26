@@ -168,6 +168,17 @@ The following papers were screened as directly relevant to QNN or QRNN research 
 | A Quantum Spatial Graph Convolutional Neural Network Model on Quantum Circuits | 2025 | IEEE | Jin Zheng; Qing Gao; Maciej Ogorzalek; Jinhu Lu; Yue Deng | [DOI](https://doi.org/10.1109/TNNLS.2024.3382174) | QNN |
 | NR-QNN: Noise-Resilient Quantum Neural Network | 2025 | IEEE | Sohrab Sajadimanesh; Hanieh Aghaee Rad; Jean Paul Latyr Faye; Ehsan Atoofian | [DOI](https://doi.org/10.1109/ACCESS.2025.3546956) | QNN |
 
+### Additional screened literature
+
+| title | year | publisher | Author | link | category |
+|---|---:|---|---|---|---|
+| Lightweight quantum recurrent neural networks for time-series and dynamical systems | 2026 | Elsevier | Yuan Chen; Abdul Khaliq | [DOI](https://doi.org/10.1016/j.asoc.2026.114949) | QRNN |
+| CQNAS: Convolutional quantum hybrid neural network architecture search for image classification | 2026 | Elsevier | Desheng Kong et al. | [DOI](https://doi.org/10.1016/j.neucom.2026.133236) | QNN |
+| Quantum Fourier Transform Neural Network with image blockwise representation for image classification | 2026 | Elsevier | Desheng Kong et al. | [DOI](https://doi.org/10.1016/j.knosys.2026.115937) | QNN |
+| Quantum computational sensing using quantum signal processing, quantum neural networks, and Hamiltonian engineering | 2026 | Springer Nature | Saeed A. Khan; Sridhar Prabhu; Logan G. Wright; Peter L. McMahon | [DOI](https://doi.org/10.1038/s41534-026-01235-w) | QNN |
+| Quantum convolutional neural network for MRI brain tumor analysis: Binary and multiclass classification using a four-qubit architecture | 2026 | Elsevier | Sitti Yani et al. | [DOI](https://doi.org/10.1016/j.radphyschem.2025.113545) | QNN |
+| Quantum neural networks form Gaussian processes | 2025 | Nature Physics | Diego García-Martín; Martín Larocca; M. Cerezo | [DOI](https://doi.org/10.1038/s41567-025-02883-z) | QNN |
+
 ## 🔗 Cross-References
 - [Quantum Computing Fundamentals](https://github.com/Q-brain/awesome-QAI-Papers-QComputing)  
 - [Quantum Machine Learning](https://github.com/Q-brain/awesome-QAI-Papers-QML)  
