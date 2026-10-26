@@ -1,17 +1,17 @@
 # 🔄 Quantum Neural Networks and Quantum Recurrent Neural Networks (QNN-QRNN) Papers
 
 This section of the **Quantum AI Papers** repository focuses on **Quantum Neural Networks and Quantum Recurrent Neural Networks (QNN-QRNN)**.  
-QTL leverages knowledge from pre-trained quantum or hybrid quantum-classical models and adapts it to new tasks or domains. This paradigm plays a crucial role in overcoming limitations of small datasets, reducing training costs, and accelerating the deployment of quantum-enhanced AI systems.  
+QNNs use parameterized quantum circuits as trainable neural models, while QRNNs extend these ideas to sequential data and quantum memory. The collection covers theory, trainability, hardware implementation, and applications of quantum and hybrid quantum-classical neural architectures.  
 
 ---
 
 ## 📚 Scope
 Research papers in this category explore:
-- Transfer of learned quantum circuit parameters between tasks  
-- Hybrid classical–quantum transfer learning frameworks  
-- Applications of QTL in physics, chemistry, medical imaging, and natural language processing  
-- Optimization strategies to mitigate issues such as barren plateaus  
-- Cross-domain transfer of quantum models for practical real-world problems  
+- Variational and parameterized-circuit architectures for quantum neural learning  
+- Quantum recurrent, gated, and memory-based models for sequential data  
+- Trainability, expressivity, barren plateaus, noise resilience, and symmetry  
+- Applications to forecasting, classification, control, quantum systems, and time series  
+- Hardware-aware implementations and benchmarking on near-term quantum devices  
 
 ---
 
@@ -147,6 +147,26 @@ Research papers in this category explore:
 
 
 ---
+
+## 🆕 Newly added and verified literature (2025–2026)
+
+The following papers were screened as directly relevant to QNN or QRNN research and were added to the Excel metadata file. The Excel file is sorted by year in descending order.
+
+| title | year | publisher | Author | link | category |
+|---|---:|---|---|---|---|
+| Training Quantum Recurrent Neural Networks on a Josephson Integrated Circuit | 2026 | Springer Nature | S. S. Samarin et al. | [DOI](https://doi.org/10.1134/S0021364025609649) | QRNN |
+| A fully quantum-native recurrent neural network for end-to-end sequential learning on NISQ hardware | 2026 | IOP Publishing | Rui Huang; Haibo Yi | [DOI](https://doi.org/10.1088/2632-2153/ae601d) | QRNN |
+| Stable approach based diagonal recurrent quantum neural networks for identification of nonlinear systems | 2026 | Springer Nature | Hossam Khalil; Osama Elshazly; Omar Shaheen | [DOI](https://doi.org/10.1038/s41598-026-37973-2) | QRNN |
+| Towards practical quantum neural network diagnostics with neural tangent kernels | 2026 | Springer Nature | Francesco Scala; Christa Zoufal; Dario Gerace; Francesco Tacchino | [DOI](https://doi.org/10.1038/s41534-026-01280-5) | QNN |
+| A quantum neural network with built-in self-attention mechanism | 2026 | Elsevier | Shangshang Shi et al. | [DOI](https://doi.org/10.1016/j.neucom.2026.132862) | QNN |
+| Quantum Neural Network Realization of XOR on a Desktop Quantum Computer | 2026 | MDPI | Tee Hui Teo; Qianrui Lin; Yiyang Fu | [DOI](https://doi.org/10.3390/s26030854) | QNN |
+| Quantum Convolutional Neural Networks: A Survey on Architectures, Applications, and Future Directions | 2026 | IEEE | Ratun Rahman; Dinh C. Nguyen | [DOI](https://doi.org/10.1109/TNNLS.2026.3677762) | QNN |
+| Quantum Gated Recurrent Neural Networks | 2025 | IEEE | Yanan Li et al. | [DOI](https://doi.org/10.1109/TPAMI.2024.3519605) | QRNN |
+| HQRNN-FD: A Hybrid Quantum Recurrent Neural Network for Fraud Detection | 2025 | MDPI | Yao-Chong Li; Yi-Fan Zhang; Rui-Qing Xu; Ri-Gui Zhou; Yi-Lin Dong | [DOI](https://doi.org/10.3390/e27090906) | QRNN |
+| Exploring Quantum Neural Networks for Demand Forecasting | 2025 | MDPI | Gleydson Fernandes de Jesus et al. | [DOI](https://doi.org/10.3390/e27050490) | QNN |
+| Quantum neural networks with data re-uploading for urban traffic time series forecasting | 2025 | Springer Nature | Nikolaos Schetakis et al. | [DOI](https://doi.org/10.1038/s41598-025-04546-8) | QNN |
+| A Quantum Spatial Graph Convolutional Neural Network Model on Quantum Circuits | 2025 | IEEE | Jin Zheng; Qing Gao; Maciej Ogorzalek; Jinhu Lu; Yue Deng | [DOI](https://doi.org/10.1109/TNNLS.2024.3382174) | QNN |
+| NR-QNN: Noise-Resilient Quantum Neural Network | 2025 | IEEE | Sohrab Sajadimanesh; Hanieh Aghaee Rad; Jean Paul Latyr Faye; Ehsan Atoofian | [DOI](https://doi.org/10.1109/ACCESS.2025.3546956) | QNN |
 
 ## 🔗 Cross-References
 - [Quantum Computing Fundamentals](https://github.com/Q-brain/awesome-QAI-Papers-QComputing)  
